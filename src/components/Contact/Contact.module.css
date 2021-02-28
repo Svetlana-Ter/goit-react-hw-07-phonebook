@@ -1,0 +1,40 @@
+.listItem {
+  display: flex;
+
+  align-items: center;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+  margin: 10px 0;
+}
+
+.number {
+  display: inline;
+  font-size: 24px;
+  margin: 0 0 0 10px;
+  text-align: center;
+  margin-left: auto;
+}
+
+.name {
+  display: inline;
+  margin: 5px 0;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: red;
+  color: white;
+  font-size: 18px;
+  margin-left: 10px;
+  padding: 7px 7px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 0 0 0 80px;
+}
+
+.btn:hover {
+  background-color: rgb(121, 23, 23);
+}

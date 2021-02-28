@@ -1,0 +1,13 @@
+.errorWrap {
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+}
+
+.errorText {
+  margin: 0;
+  text-align: center;
+}
